@@ -1,4 +1,4 @@
-<h1 align="center"><img width="1000" height="600" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<h1 align="center"><img width="800" height="600" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <h1 align="center">Hi 👋, I'm Himanshu Kumar Pal</h1>
 <h3 align="center">A passionate software tester from India.</h3>
 <img align="right" alt="Testing" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" />
